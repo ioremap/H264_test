@@ -135,6 +135,7 @@ public:
 
 };
 
+#if 0
 int main()
 {
 	xiaomi_phone mi_phone;
@@ -153,4 +154,5 @@ int main()
 	delete phone_b;
 }
 
+#endif
 
